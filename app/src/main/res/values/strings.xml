@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">فورنو بيتزا</string>
+    <string name="brand_subtitle">بيتزا الحطب الإيطالية الأصيلة</string>
+    <string name="nav_menu">القائمة</string>
+    <string name="nav_builder">صمّم بيتزتك</string>
+    <string name="nav_craft">عالم البيتزا</string>
+    <string name="nav_cart">السلة</string>
+    <string name="cd_hero_oven">بيتزا نابوليتانا تُخبز داخل فرن الحطب المشتعل</string>
+    <string name="cd_pizza_image">صورة بيتزا طازجة</string>
+    <string name="cd_favorite_toggle">إضافة أو إزالة من المفضلة</string>
+    <string name="cd_cart_badge">عدد العناصر في السلة</string>
+</resources>
